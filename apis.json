@@ -1,0 +1,101 @@
+{
+    "name": "Opto 22",
+    "description": "Opto 22 manufactures controllers, I\/O, solid-state-relays, and software products that link electrical, mechanical, and electronic devices to networks and computers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20092-opto-22.jpg",
+    "tags": [
+        "automation",
+        "have api",
+        "industrial"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opto-22\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Opto 22",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20092-opto-22.jpg",
+            "humanURL": "http:\/\/opto22.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opto-22-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opto-22-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.opto22.com\/optoblog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/opto-22"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "systemseng@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "newsite@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "asinha@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "bensonh@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "bludwig@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "bsheffres@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "bbarrett@opto22.com"
+        },
+        {
+            "type": "Email",
+            "url": "bcampbell@opto22.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Opto22"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opto22"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/opto22.com"
+        }
+    ]
+}
